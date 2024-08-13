@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+body{
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(90deg, rgba(52,174,161,1) 0%, rgba(73,194,185,1) 100%);
+}
+
+:root{
+    --color-bg:#f7d569;
+    --color-br:#ecb24c;
+    --color-bg2:#8689d0;
+    --color-bg3:#e3e0f5;
+    --color-w:#ffffff;
+    --color-b:#000000;
+}
+
